@@ -1,4 +1,4 @@
-package com.example.meeqvseproject.adapters
+package com.example.finalurigamocda.adapters
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity

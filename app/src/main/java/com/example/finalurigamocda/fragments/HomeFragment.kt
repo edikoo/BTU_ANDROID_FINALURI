@@ -7,7 +7,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
 import androidx.viewpager2.widget.ViewPager2
 import com.example.finalurigamocda.R
-import com.example.meeqvseproject.adapters.ViewPagerFragmentAdapter
+import com.example.finalurigamocda.adapters.ViewPagerFragmentAdapter
 
 
 class HomeFragment : Fragment(R.layout.fragment_home) {
