@@ -7,7 +7,7 @@
 #პროექტში გამოვიყენეთ:
 *Firestore დატაბაზა;
 *Navigation კომპონენტი;
-*Recycler wiew ;
+*Recycler view ;
 *View Pager;
 ***
 #პროექტზე მუშაობდნენ: 
